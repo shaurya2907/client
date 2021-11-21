@@ -10,7 +10,7 @@
         "web3": "1.2.2"
     },
 
-    "homepage": "https://shaurya2907.github.io/Tokenization",
+    "homepage": "https://shaurya2907.github.io/metrotokenClient",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
