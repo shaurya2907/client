@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/metrotokenClient/static/css/main.b100e6da.chunk.css",
-    "main.js": "/metrotokenClient/static/js/main.a559c16d.chunk.js",
-    "main.js.map": "/metrotokenClient/static/js/main.a559c16d.chunk.js.map",
-    "runtime-main.js": "/metrotokenClient/static/js/runtime-main.cec66421.js",
-    "runtime-main.js.map": "/metrotokenClient/static/js/runtime-main.cec66421.js.map",
-    "static/js/2.372e5d54.chunk.js": "/metrotokenClient/static/js/2.372e5d54.chunk.js",
-    "static/js/2.372e5d54.chunk.js.map": "/metrotokenClient/static/js/2.372e5d54.chunk.js.map",
-    "index.html": "/metrotokenClient/index.html",
-    "precache-manifest.22f386a81cae24bd9bc0572b44cf3c7a.js": "/metrotokenClient/precache-manifest.22f386a81cae24bd9bc0572b44cf3c7a.js",
-    "service-worker.js": "/metrotokenClient/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/metrotokenClient/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/client/static/css/main.b100e6da.chunk.css",
+    "main.js": "/client/static/js/main.cf2fda1a.chunk.js",
+    "main.js.map": "/client/static/js/main.cf2fda1a.chunk.js.map",
+    "runtime-main.js": "/client/static/js/runtime-main.d5ae527e.js",
+    "runtime-main.js.map": "/client/static/js/runtime-main.d5ae527e.js.map",
+    "static/js/2.372e5d54.chunk.js": "/client/static/js/2.372e5d54.chunk.js",
+    "static/js/2.372e5d54.chunk.js.map": "/client/static/js/2.372e5d54.chunk.js.map",
+    "index.html": "/client/index.html",
+    "precache-manifest.6454be8212f3fd9a65a280d5f956fe86.js": "/client/precache-manifest.6454be8212f3fd9a65a280d5f956fe86.js",
+    "service-worker.js": "/client/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/client/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.cec66421.js",
+    "static/js/runtime-main.d5ae527e.js",
     "static/js/2.372e5d54.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.a559c16d.chunk.js"
+    "static/js/main.cf2fda1a.chunk.js"
   ]
 }
